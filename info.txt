@@ -1,0 +1,11 @@
+User
+npm install express mongoose body-parser
+bodyparser --> this bodyparser is used to make access the
+               data to the reqbody and then make data available req. that data can be payload
+              or a valid json also
+
+model->connection.js   , --> user.js
+controllers --> userController.js
+
+
+https://chatgpt.com/c/636122bc-935d-40ee-a005-32dab8b578ef
